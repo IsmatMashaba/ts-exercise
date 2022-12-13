@@ -1,5 +1,5 @@
 "use strict";
-//union
+//add the type for this array by 2 ways
 const personArray = [
     {
         name: "Max Mustermann",
